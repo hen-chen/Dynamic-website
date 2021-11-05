@@ -5,5 +5,5 @@ import intro from './intro'
 
 export default combineReducers({
   intro,
-  posts
+  posts,
 })
